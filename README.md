@@ -8,5 +8,5 @@ Silahkan lakukan PR pada berkas ini dengan format:
 
 Daftar volunter yang diterima:
 
--
+- Chandra Halim Nuruddin, [JAKA](https://jaka-id.herokuapp.com)
 -
